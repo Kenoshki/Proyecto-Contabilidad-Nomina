@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+# La base de datos contiene datos personales y hashes: nunca al repositorio
+instance/
+*.db
+*.sqlite3
+
+# Credenciales en claro de estudiantes (solo para entregar; nunca al repositorio)
+tools/salida/
+node_modules/

@@ -1,0 +1,6 @@
+{
+  "name": "recorrido-e2e",
+  "private": true,
+  "description": "Recorrido en navegador del sistema de planillas",
+  "dependencies": { "puppeteer-core": "^23.0.0" }
+}

@@ -1,0 +1,142 @@
+[
+ {
+  "username": "est01",
+  "correo": "est01@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$sGJ9mEOkIBlxmnOn$72a21c898b35bf2ce6db8ef9bd3731aff917d1048de58bbd69935599a05f0ac77c5c9f72a1d469c42db62034cf7b4457022df4444d796802f8a221c4fa0ef538"
+ },
+ {
+  "username": "est02",
+  "correo": "est02@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$vfaXTcNdBExJyLbG$7eb99b77e440e15827ab6adc363e27526c864995ae6b0fc9997743541c60961a919062b43addeff0a53ebe67b894051e5902326f2b320e984cad1e39535aadde"
+ },
+ {
+  "username": "est03",
+  "correo": "est03@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$T7CPDu1AbxVxrV6M$323473d741163bd8150cf3a1a1377d123b619be327e004b4a59a70a48f917e9cd7b199f0f3503cd3c931e292073ef81286647a12f9f3d9930dc2b5c3107ef823"
+ },
+ {
+  "username": "est04",
+  "correo": "est04@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$QYIZfnfBzw2EF3vx$445523e92d86f4b38f6ab547fbf2da8c316c8672e25db368e955064c66a4883b6159adae5db434e612d04dda077f9a98bff3d133645f76b66967f2404073e8f4"
+ },
+ {
+  "username": "est05",
+  "correo": "est05@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$P8rCjgVO4ynFBk7r$f22e3886f2956bad25e1fdc0c66400ed2f2c0159f543ecb5157e4f8b25007121f147ca908b3b928be2d731f3ccb3d8479a2121c12c1e3abc29fa23b8b2e5b25a"
+ },
+ {
+  "username": "est06",
+  "correo": "est06@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$AZJ5Tc7FMTkbPt5z$570f6e1296cb0773e5f7d25faaeb8e6ee588889eda8d2603071279873eb4346d82ccb248abf350066667337e2aa9905c0a4a206a9e3da5034b2daafe00d1047f"
+ },
+ {
+  "username": "est07",
+  "correo": "est07@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$TLngCbnIcuVHoeFU$bad5b8c98a13823a4126965817897b1aa145bc135768c3365d508fd3619cbc3142a9195edc8a507d7dbe6f8ee2f4b80e2cfd06fe25bcd4cb504cbd3b8fd6ae5e"
+ },
+ {
+  "username": "est08",
+  "correo": "est08@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$onMhBQsIq8rbnbPz$21a829e13588eb4353f83e4981b511359368c0fba4749ea8a2bbdd2828a2e1cb62631aab3d4573a386bc055ac6f53f5bf0a630aac8bf27980f0b50140f15c868"
+ },
+ {
+  "username": "est09",
+  "correo": "est09@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$SPSJfy7bJDkM6c10$673397781822cf7a9dd4578d9aa9fa433ee0b81d148fa80b71224a4b852f0b3aceff345c83677791e07ad7dd9f3ea1ab098898ec2b37d61935901f53848bef35"
+ },
+ {
+  "username": "est10",
+  "correo": "est10@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$ebkuv3EUouNSnAzJ$cd842c11be25ec65ad37bbe8e7dbd9fd3f4237717b3141b374d28cec2d70e3aceda34b4bfd944df1cc2b3bcab04b06a11936eba95ecd15a20fdd0a4da0190f42"
+ },
+ {
+  "username": "est11",
+  "correo": "est11@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$rb3gZf65TUih1INm$f9abd6188ac1f9d8bc79896488fbcac49caaf2c1ceb4ac4f184226edf6eed7413a36642a5e46e50ae4ddcc319dd79d332d0a79f62ced074a88fe08a7465a758b"
+ },
+ {
+  "username": "est12",
+  "correo": "est12@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$9KmlLPtwTXwunL68$73eba17dfb4a25d021ae1facdabba7437c9f2f8ccbc40e422d51b1e372b26e14abf7ddb3b0382ceff93c14d675bebf2f5cb1437223a09278f09a6cddac8c0a68"
+ },
+ {
+  "username": "est13",
+  "correo": "est13@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$c3cGvVqne5gvrdnn$19a7e66891e3b4561386fe7dccf53718095fbad1171159493bae63fbe4f9a98fc47556d394613fea63c53b075f0d3417a1a1655b0ee69d8bde0574b083560742"
+ },
+ {
+  "username": "est14",
+  "correo": "est14@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$slO7mtzM63M97h8A$3492d46fc48c8b9c18e3d3877d492dd015d8f094795b363bdc9895f7d8ad584209bf171dfdcca5b23755fcc67c2159a7a8dec050807e8ac5ff207c4d460ebac1"
+ },
+ {
+  "username": "est15",
+  "correo": "est15@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$pcThYBC1E1MuK3A4$093baaadd75b355db6de203fd0d1604a012c157343632c4e0c1bba8ca95cb452c43a78cf134f0108633dc91552bc9e1ea4b324540ac1875990f7fabd8c82373f"
+ },
+ {
+  "username": "est16",
+  "correo": "est16@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$AYCktfC6wwtEEZYa$a5e92c7e9b462db795a3fb7657b6123f3ca3d8188afc0d5c073782a427685e8e6aadfdced5d3fc2e9bf83b0f0bf7102da18cf96b9cbf0b908a7fadf62daa2967"
+ },
+ {
+  "username": "est17",
+  "correo": "est17@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$wkl4Cx5yJPoFDilv$e9020eeaa84fab52d037ed1e4abbdc3acb201270a5218ad1ba541cf21259c03d3fac48fb9fd5facbf2a2669bb12ba871e5fcf3b79d4f2bd52a366779b5582325"
+ },
+ {
+  "username": "est18",
+  "correo": "est18@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$V8QncGVWBGe1sH8m$0f5fd480688b95f690207019eae342452d7668f1ce4b5c73fd4f9929f93f7a0f5b0ed5fd264ad10f2472fb898d45bedbb482ea771b902f4ce8bbdf983de1a171"
+ },
+ {
+  "username": "est19",
+  "correo": "est19@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$ZMtVkZZArFr7ZqiL$f80983f9b8b3b0fa57481b1a9df09849a13ad8299c7313fadc8966b713957c413c6171304f0a7b1eabaafceb32a0bb1ff8d41d421e64d6492ff1034c37b430b1"
+ },
+ {
+  "username": "est20",
+  "correo": "est20@estudiantes.invalid",
+  "rol": "RRHH",
+  "permisos": "dashboard,empleados,locales,extranjeros,directorio,planillas,asistencia,departamentos,reportes,ley-gt,bajas,ex-empleados",
+  "password_hash": "scrypt:32768:8:1$hkjr8OmvrkcLJE5A$49e3865bd17e00a2fd5c2b8ae19695171f651ef35323dec80a32813201d2aadffba930267c1099ef5621350ae936915a3b5bbb69e07e0d963f9c63dd180aabf2"
+ }
+]
