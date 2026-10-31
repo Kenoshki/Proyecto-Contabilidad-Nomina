@@ -131,10 +131,16 @@ def create_app():
     app = Flask(__name__)
 
     modo_debug = os.environ.get('FLASK_DEBUG', 'False').lower() in ['true', '1']
-    secret_key = os.environ.get('SECRET_KEY')
+    secret_key = (os.environ.get('SECRET_KEY') or '').strip()
     if not secret_key:
         if not modo_debug:
-            raise RuntimeError("SECRET_KEY es obligatoria fuera de modo desarrollo (FLASK_DEBUG=1)")
+            # Diagnóstico: solo NOMBRES de variables (nunca valores) para detectar errores de escritura o de servicio
+            parecidas = sorted(n for n in os.environ if 'SECRET' in n.upper() or 'KEY' in n.upper())
+            esperadas = {n: (n in os.environ) for n in ('SECRET_KEY', 'ADMIN_PASSWORD', 'ADMIN_EMAIL', 'DATABASE_PATH')}
+            raise RuntimeError(
+                "SECRET_KEY es obligatoria fuera de modo desarrollo (FLASK_DEBUG=1). "
+                f"Variables esperadas presentes: {esperadas}. Nombres con SECRET/KEY vistos: {parecidas}. "
+                "Defínala en Variables del MISMO servicio y entorno que se despliega y vuelva a desplegar.")
         secret_key = secrets.token_hex(32)  # solo desarrollo: las sesiones no sobreviven a un reinicio
     app.config.update(
         SECRET_KEY=secret_key,
